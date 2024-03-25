@@ -41,5 +41,5 @@ Thoroughly document each step encompassing data cleaning, formatting, and storag
 ## Observations:
 - **Standard Date Format:** Most databases, including PostgreSQL, prefer the YYYY-MM-DD format for dates. Tip: Adhering to this standard ensures consistency and compatibility across systems, avoiding potential issues with date manipulation and querying.
 
-## Conclusively
+## Conclusion
 Adhering to these steps ensures seamless data management, enabling informed decision-making and strategic initiatives. Leveraging Power BI enhances analytical capabilities for extracting actionable insights from the data.
