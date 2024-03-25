@@ -1,5 +1,5 @@
-# 📊 Data Analytics, Data Engineering and Data Science Project: Analyzing Personal Loan Marketing Campaign Data by Data Nexus
-
+# 📊 Data Analytics, Data Engineering and Data Science Project: Analyzing Personal Loan Marketing Campaign Data
+[Organized By: Data Nexus Hub]
 ## Note:
 Please open the [Python Code](Olabode%20Kayode%20Data%20Nexus%20Project/Python%20Code/Olabode%20Kayode%20DataNexusProject.ipynb) with **Visual Studio Code (VSCODE)**! 🔍 and make sure to download the [Reports Images](Olabode%20Kayode%20Data%20Nexus%20Project/Power%20BI%20reports) as well
 
