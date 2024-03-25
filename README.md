@@ -1,3 +1,5 @@
+Note: Please Open the Python Code with VSCODE!
+
 
 Mogul Bank Marketing Data Management Project
 
@@ -18,3 +20,5 @@ Step 3: SQL Code Implementation: Crafted SQL code to facilitate the creation of 
 Step 4: Power BI Analysis: Load the cleaned and formatted data into Power BI to leverage its analytical capabilities. Utilize Power BI to analyze the data and gain insights on the clients who responded True or False to the marketing campaign.
 
 Step 5: Documentation and Reporting: Thoroughly document each step encompassing data cleaning, formatting, and storage processes. Furnish a comprehensive report delineating the intricate steps undertaken, pivotal decisions made, and any invaluable insights gleaned from the exhaustive data analysis.
+
+Adhering to these steps ensures seamless data management, enabling informed decision-making and strategic initiatives. Leveraging Power BI enhances analytical capabilities for extracting actionable insights from the data.
