@@ -1,7 +1,7 @@
 # 📊 Data Analytics, Data Engineering and Data Science Project: Analyzing Personal Loan Marketing Campaign Data
 
 ## Note:
-Please open the [Python Code](Olabode%20Kayode%20Data%20Nexus%20Project/Python%20Code/Olabode%20Kayode%20DataNexusProject.ipynb). with **Visual Studio Code (VSCODE)**! 🔍 and make sure to download the [Reports Images](Olabode%20Kayode%20Data%20Nexus%20Project/Power%20BI%20reports) as well
+Please open the [Python Code](Olabode%20Kayode%20Data%20Nexus%20Project/Python%20Code/Olabode%20Kayode%20DataNexusProject.ipynb) with **Visual Studio Code (VSCODE)**! 🔍 and make sure to download the [Reports Images](Olabode%20Kayode%20Data%20Nexus%20Project/Power%20BI%20reports) as well
 
 ## Introduction:
 In the financial sector, personal loans play a crucial role as a revenue driver, especially with the prevailing interest rate of 10% for a two-year loan in the UK. In September 2022, UK consumers borrowed a staggering £1.5 billion, generating an estimated £300 million in interest for banks over the subsequent two years.
@@ -29,4 +29,17 @@ Load the cleaned and formatted data into Power BI to leverage its analytical cap
 **📝 Step 5: Documentation and Reporting:**
 Thoroughly document each step encompassing data cleaning, formatting, and storage processes. Furnish a comprehensive report delineating the intricate steps undertaken, pivotal decisions made, and any invaluable insights gleaned from the exhaustive data analysis.
 
-**Conclusively**, Adhering to these steps ensures seamless data management, enabling informed decision-making and strategic initiatives. Leveraging Power BI enhances analytical capabilities for extracting actionable insights from the data.
+## Challenges:
+- **Renaming Columns:** I encountered issues with renaming some columns due to my unfamiliarity with chained assignment. Tip: Before attempting to rename columns, ensure you understand the underlying principles of chained assignment.
+- **Connection Issues with MySQL:** My attempts to use MySQL were thwarted by my laptop's failure to connect to the server. Tip: Troubleshoot connection issues by checking network settings and firewall configurations.
+- **Excel Database Connectivity:** I faced difficulties connecting to my database with Excel, leading me to resort to using Power BI. Tip: Consider using alternative tools like Power BI for database connectivity and analysis, as they may offer more robust features and easier integration.
+
+## Lesson:
+- **Understanding Chained Assignment:** I have gained awareness of how chained assignment works, which will enhance my ability to manipulate data effectively in future projects.
+- **Basic Understanding of PostgreSQL:** Through this project, I've developed a fundamental understanding of how PostgreSQL works, laying the foundation for more advanced database management skills.
+
+## Observations:
+- **Standard Date Format:** Most databases, including PostgreSQL, prefer the YYYY-MM-DD format for dates. Tip: Adhering to this standard ensures consistency and compatibility across systems, avoiding potential issues with date manipulation and querying.
+
+## Conclusively
+Adhering to these steps ensures seamless data management, enabling informed decision-making and strategic initiatives. Leveraging Power BI enhances analytical capabilities for extracting actionable insights from the data.
