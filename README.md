@@ -1,4 +1,4 @@
-# 📊 Data Analytics and Data Science Project: Analyzing Personal Loan Marketing Campaign Data
+# 📊 Data Analytics, Data Engineering and Data Science Project: Analyzing Personal Loan Marketing Campaign Data
 
 ## Note:
 Please open the [Python Code](Olabode%20Kayode%20Data%20Nexus%20Project/Python%20Code/Olabode%20Kayode%20DataNexusProject.ipynb). with **Visual Studio Code (VSCODE)**! 🔍 and make sure to download the [Reports Images](Olabode%20Kayode%20Data%20Nexus%20Project/Power%20BI%20reports) as well
@@ -29,4 +29,4 @@ Load the cleaned and formatted data into Power BI to leverage its analytical cap
 **📝 Step 5: Documentation and Reporting:**
 Thoroughly document each step encompassing data cleaning, formatting, and storage processes. Furnish a comprehensive report delineating the intricate steps undertaken, pivotal decisions made, and any invaluable insights gleaned from the exhaustive data analysis.
 
-Adhering to these steps ensures seamless data management, enabling informed decision-making and strategic initiatives. Leveraging Power BI enhances analytical capabilities for extracting actionable insights from the data.
+**Conclusively**, Adhering to these steps ensures seamless data management, enabling informed decision-making and strategic initiatives. Leveraging Power BI enhances analytical capabilities for extracting actionable insights from the data.
