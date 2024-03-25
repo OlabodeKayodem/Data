@@ -6,8 +6,7 @@ Step 2: Create a markdown cell, not code.
 
 Step 3: Write the code below into the markdown cell you created to show the images:
 
-markdown
-Copy code
+
 **Connecting to the database**
 ![Connecting the database](C.jpg)
 
