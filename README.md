@@ -1,7 +1,7 @@
 # 📊 Data Analytics, Data Engineering and Data Science Project: Analyzing Personal Loan Marketing Campaign Data
 [Organized By: Data Nexus Hub]
 ## Note:
-Please open the [Python Code](Olabode%20Kayode%20Data%20Nexus%20Project/Python%20Code/Olabode%20Kayode%20DataNexusProject.ipynb) with **Visual Studio Code (VSCODE)**! 🔍 and make sure to download the [Reports Images](Olabode%20Kayode%20Data%20Nexus%20Project/Power%20BI%20reports) as well
+Please open the [Python Code](Olabode%20Kayode%20Data%20Nexus%20Project/Python%20Code/Olabode%20Kayode%20DataNexusProject.ipynb) with **Visual Studio Code (VSCODE)**! 🔍 and make sure to download the [Reports Images](Olabode%20Kayode%20Data%20Nexus%20Project/Power%20BI%20reports) as well, then open the [Show Images text file](Olabode%20Kayode%20Data%20Nexus%20Project/Power%20BI%20reports/Show_Images.txt) to guide you on how to make aure the image shows on VSCODE
 
 ## Introduction:
 In the financial sector, personal loans play a crucial role as a revenue driver, especially with the prevailing interest rate of 10% for a two-year loan in the UK. In September 2022, UK consumers borrowed a staggering £1.5 billion, generating an estimated £300 million in interest for banks over the subsequent two years.
