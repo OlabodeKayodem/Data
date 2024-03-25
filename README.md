@@ -1,4 +1,4 @@
-Note: Please Open the Python Code with VSCODE!
+**Note: Please Open the Python Code with VSCODE!**
 
 
 Mogul Bank Marketing Data Management Project
