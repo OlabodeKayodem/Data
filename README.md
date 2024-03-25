@@ -1,8 +1,7 @@
 # 📊 Data Analytics and Data Science Project: Analyzing Personal Loan Marketing Campaign Data
 
 ## Note:
-Please open the Python code with **Visual Studio Code (VSCODE)**! 🔍
-click [here](path/to/your/python/code.py).
+Please open the [Python Code](Olabode%20Kayode%20Data%20Nexus%20Project/Python%20Code/Olabode%20Kayode%20DataNexusProject.ipynb). with **Visual Studio Code (VSCODE)**! 🔍
 
 ## Introduction:
 In the financial sector, personal loans play a crucial role as a revenue driver, especially with the prevailing interest rate of 10% for a two-year loan in the UK. In September 2022, UK consumers borrowed a staggering £1.5 billion, generating an estimated £300 million in interest for banks over the subsequent two years.
